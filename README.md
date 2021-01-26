@@ -17,6 +17,6 @@
 <br />
 <!-- Optional if you have blogs -->
 
-[website]: https://shubham-singla525.github.io/livewebsite/
+[website]: https://portfolio-website-b5f3a.firebaseapp.com/
 [twitter]: https://twitter.com/Shubham63810
 [linkedin]: https://www.linkedin.com/in/shubham-singla-55586919b/
