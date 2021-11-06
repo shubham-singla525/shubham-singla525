@@ -1,6 +1,6 @@
 
 ### Hi, I'm Shubham Singla <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
-### Current Web Developer Intern at webMOBI
+### Former Web Developer Intern at webMOBI
 ### Former Web Developer Intern at Rise and Fit
 ## Description
 - 🔭 I’m currently working on - Full Stack
