@@ -1,12 +1,12 @@
 
 ### Hi, I'm Shubham Singla <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
+### Software Engineer at Capillary Technologies
+### Former trainee at CodeQuotient
 ### Former Web Developer Intern at webMOBI
 ### Former Web Developer Intern at Rise and Fit
 ## Description
-- 🔭 I’m currently working on - Full Stack
-- 👯 I’m looking to collaborate with - Web Devs
+- 🔭 I’m currently working on - SpringBoot, MicroServices
 - 💬 Ask me about - Anyone have projects ask me for same.
-- 🥅 2021 Goal - Improving web dev skills, getting internship opportunities and improve coding skills.
 <!-- ❔❔❔❔ means username in below README.md -->
 
 
