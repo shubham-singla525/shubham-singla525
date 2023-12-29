@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=shubham-singla525" alt="shubham-singla525" /></a> </p>
 
-- 🌱 I’m currently learning **Microservices,AWS**
+- 🌱 I’m currently learning **Springboot**
 
 - 💬 Ask me about **Java**
 
@@ -21,4 +21,4 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=shubham-singla525&show_icons=true&locale=en&layout=compact" alt="shubham-singla525" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=shubham-singla525&show_icons=true&locale=en" alt="shubham-singla525" /></p>
+
